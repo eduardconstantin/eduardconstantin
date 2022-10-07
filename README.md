@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hello there!</h1>
 
+[![@eduard26's Holopin board](https://holopin.io/api/user/board?user=eduard26)](https://holopin.io/@eduard26)
+
 <div align="center">
   <img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/divider1.png" alt="divider"/>
 </div> 
