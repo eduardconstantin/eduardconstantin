@@ -6,7 +6,7 @@
   <img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/divider1.png" alt="divider"/>
 </div> 
 
-### <div align="center">👨‍💻 I'm Eduard, a passionate  full-time application developer from Romania.</div>  
+### <div align="center">I'm Eduard, a passionate  full-time application developer from Romania.</div>  
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
@@ -32,7 +32,7 @@
   <img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/divider2.png" alt="divider"/>
 </div> 
 
-<h3 align="center">🛠️ Tech & Tools</h3>
+<h3 align="center"><img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
