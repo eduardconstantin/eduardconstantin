@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/hello.gif" height="30"/> Hello there!</h1>
+<h1 align="center"><img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/hello.gif" height="30" width="30"/> Hello there!</h1>
 
 [![@eduard26's Holopin board](https://holopin.io/api/user/board?user=eduard26)](https://holopin.io/@eduard26)
 
@@ -6,7 +6,7 @@
   <img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/divider1.png" alt="divider"/>
 </div> 
 
-### <div align="center">I'm Eduard, a passionate  full-time application developer from Romania.</div>  
+### <div align="center">I'm Eduard, a passionate full-time application developer from Romania.</div>  
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
@@ -14,7 +14,7 @@
 
 - 🎮 In my free time I play open world games like Grand Theft Auto, Red Dead Redemption or Assassin's Creed  
 
-- 🌱 I’m currently learning Storybook and Jest  
+- 🌱 I’m currently learning Next.js
   
 - 👨‍💻 All my projects are available in [my portfolio](https://eduardconstantin.github.io)  
   
@@ -32,7 +32,7 @@
   <img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/divider2.png" alt="divider"/>
 </div> 
 
-<h3 align="center"><img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/code.gif" height="20"/> Tech & Tools</h3>
+<h3 align="center"><img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/code.gif" height="20" width="20"/> Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
@@ -49,8 +49,7 @@
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="25" />  
         <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="25" />  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" />  
-        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" height="25" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />  
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" height="25" /> 
         <img style="margin: 10px" src="https://styled-components.com/logo.png" alt="styled-components" height="25" /> 
         <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="storybook" height="25" /> 
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" height="25" />
@@ -74,8 +73,7 @@
     <tr>
       <td valign="center" align="center" width="300px">
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" height="25" /> 
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="25" /> 
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="25" />
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="25" />
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" />  
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" height="25" />  
