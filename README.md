@@ -44,23 +44,26 @@
       <td valign="center" align="center" width="300px">
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" height="25" />
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" height="25" /> 
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="25" /> 
-        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="25" />  
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="25" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" />  
-        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" height="25" /> 
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="javaScript" height="25" />  
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typeScript" height="25" /> 
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="25" />
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next.js" height="25" />
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="chart.js" height="25" />  
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" height="25" />  
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="25" />  
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" height="25" /> 
         <img style="margin: 10px" src="https://styled-components.com/logo.png" alt="styled-components" height="25" /> 
         <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="storybook" height="25" /> 
-        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" height="25" />
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQL" height="25" />
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="25" />
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphQL" height="25" />
       </td>
       <td valign="center" align="center" width="300px">
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" height="25" />
         <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" height="25" />
         <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" height="25" />
         <img style="margin: 10px" src="https://github.com/altair-graphql/altair/raw/master/packages/altair-app/src/assets/img/altair_logo_128.png" alt="altair" height="25" />
-        <img style="margin: 10px" src="https://deva90sapmc8w.cloudfront.net/unity-logo.svg" alt="Unity" height="25" />
-        <img style="margin: 10px" src="https://www.ptc.com/-/media/Images/new-org/icons/Nav/vuforia-icon-logo-1.svg" alt="Vuforia" height="25" /> 
+        <img style="margin: 10px" src="https://deva90sapmc8w.cloudfront.net/unity-logo.svg" alt="unity" height="25" />
+        <img style="margin: 10px" src="https://www.ptc.com/-/media/Images/new-org/icons/Nav/vuforia-icon-logo-1.svg" alt="vuforia" height="25" /> 
       </td>
     </tr>
   </table>
@@ -72,18 +75,17 @@
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
-        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" height="25" /> 
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="25" />
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" height="25" /> 
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="git" height="25" />  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" />  
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" height="25" />  
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="25" />
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgreSQL" height="25" />
      </td>
      <td valign="center" align="center" width="300px">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" /> 
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /> 
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" height="25" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="photoshop" height="25" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="adobe XD" height="25" /> 
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="figma" height="25" /> 
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" height="25" />  
       </td>
     </tr>
   </table>
