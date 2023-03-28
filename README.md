@@ -1,24 +1,22 @@
-<h1 align="center"><img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/hello.gif" height="30" width="30"/> Hello there!</h1>
+<h1 align="center"><img src="assets/hello.gif" height="30" width="30"/> Hello there!</h1>
 
 [![@eduard26's Holopin board](https://holopin.io/api/user/board?user=eduard26)](https://holopin.io/@eduard26)
 
 <div align="center">
-  <img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/divider1.png" alt="divider"/>
-</div> 
+  <img src="assets/divider1.png" alt="divider"/>
+</div>
 
-### <div align="center">I'm Eduard, a passionate full-time application developer from Romania.</div>  
+### <div align="center">I'm Eduard, a passionate full-time application developer from Romania.</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
-</div> 
+</div>
 
-- 🎮 In my free time I play open world games like Grand Theft Auto, Red Dead Redemption or Assassin's Creed  
+- 🎮 In my free time I play open world games like Grand Theft Auto, Red Dead Redemption or Assassin's Creed
 
 - 🌱 I’m currently learning Next.js
-  
-- 👨‍💻 All my projects are available in [my portfolio](https://eduardconstantin.github.io)  
-  
-- ⚡ Fun fact: I like to sketch  
+- 👨‍💻 All my projects are available in [my portfolio](https://eduardconstantin.github.io)
+- ⚡ Fun fact: I like to sketch
 
 <details align="center">
   <summary>Click 👆</summary>
@@ -29,10 +27,10 @@
 </details>
 
 <div align="center">
-  <img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/divider2.png" alt="divider"/>
-</div> 
+  <img src="assets/divider2.png" alt="divider"/>
+</div>
 
-<h3 align="center"><img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/code.gif" height="20" width="20"/> Tech & Tools</h3>
+<h3 align="center"><img src="assets/code.gif" height="20" width="20"/> Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
@@ -92,8 +90,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/divider2.png" alt="divider"/>
-</div> 
+  <img src="assets/divider2.png" alt="divider"/>
+</div>
 
 <div align="center">
   <a href="https://twitter.com/_Eduard26" target="_blank">
@@ -105,8 +103,8 @@
   <a href="https://www.youtube.com/channel/UC8sXMbniXCSDrbbLXev4nsQ" target="_blank">
     <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
   </a>  
-</div> 
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=eduardconstantin&&style=flat-square" align="center" />
-</div> 
+</div>
