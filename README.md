@@ -55,12 +55,13 @@
         <img style="margin: 10px" src="assets/graphql.png" alt="graphQL" height="32" />
       </td>
       <td valign="center" align="center" width="350px">
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" height="32" />
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" height="32" />
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" height="32" />
-        <img style="margin: 10px" src="https://github.com/altair-graphql/altair/raw/master/packages/altair-app/src/assets/img/altair_logo_128.png" alt="altair" height="32" />
-        <img style="margin: 10px" src="https://deva90sapmc8w.cloudfront.net/unity-logo.svg" alt="unity" height="32" />
-        <img style="margin: 10px" src="https://www.ptc.com/-/media/Images/new-org/icons/Nav/vuforia-icon-logo-1.svg" alt="vuforia" height="32" /> 
+        <img style="margin: 10px" src="assets/azure.png" alt="azure" height="32" />
+        <img style="margin: 10px" src="assets/vscode.png" alt="vscode" height="32" />
+        <img style="margin: 10px" src="assets/vs.png" alt="vs" height="32" />
+        <img style="margin: 10px" src="assets/github.png" alt="vs" height="32" />
+        <img style="margin: 10px" src="assets/altair.png" alt="altair" height="32" />
+        <img style="margin: 10px" src="assets/unity.png" alt="unity" height="32" />
+        <img style="margin: 10px" src="assets/vuforia.png" alt="vuforia" height="32" /> 
       </td>
     </tr>
   </table>
@@ -72,17 +73,16 @@
     </tr>
     <tr>
       <td valign="center" align="center" width="350px">
-        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" height="25" /> 
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="git" height="25" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" />  
-        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" height="25" />  
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgreSQL" height="25" />
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" height="32" /> 
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="32" />  
+        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" height="32" />  
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgreSQL" height="32" />
      </td>
      <td valign="center" align="center" width="350px">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="photoshop" height="25" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="adobe XD" height="25" /> 
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="figma" height="25" /> 
-        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" height="25" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="photoshop" height="32" />  
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="adobe XD" height="32" /> 
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="figma" height="32" /> 
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" height="32" />  
       </td>
     </tr>
   </table>
