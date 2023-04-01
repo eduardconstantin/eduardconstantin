@@ -40,8 +40,8 @@
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
-        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" height="25" />
-        <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" height="25" /> 
+        <img style="margin: 10px" src="assets/html.png" alt="HTML5" height="30" />
+        <img style="margin: 10px" src="assets/css.png" alt="CSS3" height="30" /> 
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="javaScript" height="25" />  
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typeScript" height="25" /> 
         <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="25" />
