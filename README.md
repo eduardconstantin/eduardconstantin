@@ -57,7 +57,6 @@
       <td valign="center" align="center" width="370px">
         <img style="margin: 10px" src="assets/azure.png" alt="azure" height="35" />
         <img style="margin: 10px" src="assets/vscode.png" alt="vscode" height="35" />
-        <img style="margin: 10px" src="assets/vs.png" alt="vs" height="35" />
         <img style="margin: 10px" src="assets/github.png" alt="vs" height="35" />
         <img style="margin: 10px" src="assets/altair.png" alt="altair" height="35" />
         <img style="margin: 10px" src="assets/unity.png" alt="unity" height="35" />
@@ -79,8 +78,7 @@
         <img style="margin: 10px" src="assets/sql.png" alt="SQL" height="35" />
      </td>
      <td valign="center" align="center" width="370px">
-        <img style="margin: 10px" src="assets/ps.png" alt="photoshop" height="35" />  
-        <img style="margin: 10px" src="assets/xd.png" alt="adobeXD" height="35" /> 
+        <img style="margin: 10px" src="assets/ps.png" alt="photoshop" height="35" /> 
         <img style="margin: 10px" src="assets/figma.png" alt="figma" height="35" /> 
         <img style="margin: 10px" src="assets/blender.png" alt="blender" height="35" />  
       </td>
