@@ -1,4 +1,4 @@
-<h1 align="center"><img src="assets/hello.gif" height="30" width="30"/> Hello there!</h1>
+<div align="center"><img src="assets/hello.gif" height="30" width="30"/><p><b>Hello there!</b></p></div>
 
 [![@eduard26's Holopin board](https://holopin.io/api/user/board?user=eduard26)](https://holopin.io/@eduard26)
 
@@ -13,8 +13,7 @@
 </div>
 
 - 🎮 In my free time I play open world games like Grand Theft Auto, Red Dead Redemption or Assassin's Creed
-
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Everything, Everywhere, All at Once
 - 👨‍💻 All my projects are available in [my portfolio](https://eduardconstantin.github.io)
 - ⚡ Fun fact: I like to sketch
 
@@ -30,7 +29,7 @@
   <img src="assets/divider2.png" alt="divider"/>
 </div>
 
-<h3 align="center"><img src="assets/code.gif" height="20" width="20"/> Tech & Tools</h3>
+<h3 align="center">⚛ Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
