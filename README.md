@@ -1,6 +1,6 @@
 <div align="center"><img src="assets/hello.gif" height="30" width="30"/><p><b>Hello there!</b></p></div>
 
-[![@eduard26's Holopin board](https://holopin.io/api/user/board?user=eduard26)](https://holopin.io/@eduard26)
+[![An image of @eduard26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eduard26)](https://holopin.io/@eduard26)
 
 <div align="center">
   <img src="assets/divider1.png" alt="divider"/>
