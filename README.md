@@ -11,6 +11,7 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
 </div>
+<br>
 
 - 🎮 In my free time I play open world games like Grand Theft Auto, Red Dead Redemption or Assassin's Creed
 - 🌱 I’m currently learning Everything, Everywhere, All at Once
@@ -39,12 +40,9 @@
     </tr>
     <tr>
       <td valign="center" align="center" width="370px">
-        <img style="margin: 10px" src="assets/html.png" alt="HTML5" height="35" />
-        <img style="margin: 10px" src="assets/css.png" alt="CSS3" height="35" /> 
-        <img style="margin: 10px" src="assets/js.png" alt="javaScript" height="35" />  
-        <img style="margin: 10px" src="assets/ts.png" alt="typeScript" height="35" /> 
         <img style="margin: 10px" src="assets/react.png" alt="reactJs" height="35" />
         <img style="margin: 10px" src="assets/next.png" alt="nextJs" height="35" />
+        <img style="margin: 10px" src="assets/ts.png" alt="typeScript" height="35" />
         <img style="margin: 10px" src="assets/chart.png" alt="chartJs" height="35" />  
         <img style="margin: 10px" src="assets/tailwind.png" alt="tailwind" height="35" />  
         <img style="margin: 10px" src="assets/bootstrap.png" alt="bootstrap" height="35" />  
@@ -57,7 +55,6 @@
         <img style="margin: 10px" src="assets/azure.png" alt="azure" height="35" />
         <img style="margin: 10px" src="assets/vscode.png" alt="vscode" height="35" />
         <img style="margin: 10px" src="assets/github.png" alt="vs" height="35" />
-        <img style="margin: 10px" src="assets/altair.png" alt="altair" height="35" />
         <img style="margin: 10px" src="assets/unity.png" alt="unity" height="35" />
         <img style="margin: 10px" src="assets/vuforia.png" alt="vuforia" height="35" /> 
       </td>
@@ -91,7 +88,7 @@
 
 <div align="center">
   <a href="https://twitter.com/_Eduard26" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/profile-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white alt=x style="margin-bottom: 5px;" />
   </a>
   <a href="https://dribbble.com/Eduard26" target="_blank">
     <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
@@ -102,5 +99,5 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eduardconstantin&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=eduardconstantin&&style=for-the-badge" align="center" />
 </div>
