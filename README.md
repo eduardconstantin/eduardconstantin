@@ -16,7 +16,10 @@
 - 🎮 In my free time I play open world games like Grand Theft Auto, Red Dead Redemption or Assassin's Creed
 - 🌱 I’m currently learning Everything, Everywhere, All at Once
 - 👨‍💻 All my projects are available in [my portfolio](https://eduardconstantin.github.io)
+<!-- RANK:START -->
+<!-- RANK:END -->
 - ⚡ Fun fact: I like to sketch
+
 
 <details align="center">
   <summary>Click 👆</summary>
