@@ -17,6 +17,7 @@
 - 🌱 I’m currently learning Everything, Everywhere, All at Once
 - 👨‍💻 All my projects are available in [my portfolio](https://eduardconstantin.github.io)
 <!-- RANK:START -->
+- 🏆 I am ranked 64 among the top [GitHub users in Romania based on public contributions.](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/romania.md)
 <!-- RANK:END -->
 - ⚡ Fun fact: I like to sketch
 
