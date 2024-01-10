@@ -16,12 +16,25 @@
 - 🎮 In my free time I play open world games like Grand Theft Auto, Red Dead Redemption or Assassin's Creed
 - 🌱 I’m currently learning Everything, Everywhere, All at Once
 - 👨‍💻 All my projects are available in [my portfolio](https://eduardconstantin.github.io)
-<!-- RANK:START -->
-- 🏆 I am ranked 50 among the top [GitHub users in Romania based on public contributions.](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/romania.md)
-<!-- RANK:END -->
 - ⚡ Fun fact: I like to sketch
 
+</br>
+<div align="center">🏆</br> My Standings in the "Top GitHub Users in Romania" Leaderboards</div>
+<!-- RANK:START -->
+<div align="center">
+  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/romania.md" target="_blank">
+    <img src=https://img.shields.io/badge/50-blue?style=for-the-badge&label=public%20contributions />
+  </a>
+  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/romania.md" target="_blank">
+    <img src=https://img.shields.io/badge/133-blue?style=for-the-badge&label=total%20contributions />
+  </a>
+  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/romania.md" target="_blank">
+    <img src=https://img.shields.io/badge/530-blue?style=for-the-badge&label=followers />
+  </a>
+</div>
+<!-- RANK:END -->
 
+</br>
 <details align="center">
   <summary>Click 👆</summary>
   <pre>
@@ -92,13 +105,13 @@
 
 <div align="center">
   <a href="https://twitter.com/_Eduard26" target="_blank">
-    <img src=https://img.shields.io/badge/profile-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white alt=x style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/profile-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white alt=x />
   </a>
   <a href="https://dribbble.com/Eduard26" target="_blank">
-    <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble />
   </a>
   <a href="https://www.youtube.com/channel/UC8sXMbniXCSDrbbLXev4nsQ" target="_blank">
-    <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube />
   </a>  
 </div>
 
