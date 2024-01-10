@@ -13,12 +13,6 @@
 </div>
 <br>
 
-- 🎮 In my free time I play open world games like Grand Theft Auto, Red Dead Redemption or Assassin's Creed
-- 🌱 I’m currently learning Everything, Everywhere, All at Once
-- 👨‍💻 All my projects are available in [my portfolio](https://eduardconstantin.github.io)
-- ⚡ Fun fact: I like to sketch
-
-</br>
 <div align="center">🏆</br> My Standings in the "Top GitHub Users in Romania" Leaderboards</div>
 <!-- RANK:START -->
 <div align="center">
@@ -35,6 +29,12 @@
 <!-- RANK:END -->
 
 </br>
+
+- 🎮 In my free time I play open world games like Grand Theft Auto, Red Dead Redemption or Assassin's Creed
+- 🌱 I’m currently learning Everything, Everywhere, All at Once
+- 👨‍💻 All my projects are available in [my portfolio](https://eduardconstantin.github.io)
+- ⚡ Fun fact: I like to sketch
+
 <details align="center">
   <summary>Click 👆</summary>
   <pre>
