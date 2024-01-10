@@ -25,11 +25,11 @@
   <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/romania.md" target="_blank">
     <img src=https://img.shields.io/badge/50-blue?style=for-the-badge&label=public%20contributions />
   </a>
-  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/romania.md" target="_blank">
-    <img src=https://img.shields.io/badge/133-blue?style=for-the-badge&label=total%20contributions />
-  </a>
   <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/romania.md" target="_blank">
     <img src=https://img.shields.io/badge/530-blue?style=for-the-badge&label=followers />
+  </a>
+  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/romania.md" target="_blank">
+    <img src=https://img.shields.io/badge/133-blue?style=for-the-badge&label=total%20contributions />
   </a>
 </div>
 <!-- RANK:END -->
