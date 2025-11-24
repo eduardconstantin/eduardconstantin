@@ -17,13 +17,13 @@
 <!-- RANK:START -->
 <div align="center">
   <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/romania.md" target="_blank">
-    <img src=https://img.shields.io/badge/148-blue?style=for-the-badge&label=public%20contributions />
+    <img src=https://img.shields.io/badge/163-blue?style=for-the-badge&label=public%20contributions />
   </a>
   <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/romania.md" target="_blank">
-    <img src=https://img.shields.io/badge/297-blue?style=for-the-badge&label=followers />
+    <img src=https://img.shields.io/badge/275-blue?style=for-the-badge&label=followers />
   </a>
   <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/romania.md" target="_blank">
-    <img src=https://img.shields.io/badge/156-blue?style=for-the-badge&label=total%20contributions />
+    <img src=https://img.shields.io/badge/174-blue?style=for-the-badge&label=total%20contributions />
   </a>
 </div>
 <!-- RANK:END -->
